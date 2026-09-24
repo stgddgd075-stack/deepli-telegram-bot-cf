@@ -1,0 +1,7 @@
+name = "deepli-bot"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+# Optional non-secret defaults (secrets should be set via wrangler secret)
+BOT_NAME = "DeepLi"
